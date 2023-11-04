@@ -1,3 +1,6 @@
+# Please note that you can not run your add-on from within IDE - you will get errors. 
+# Add-ons need to be run from within Anki, which is covered in the A Basic Add-on section.
+
 import openai, os
 from dotenv import load_dotenv
 

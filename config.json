@@ -1,3 +1,5 @@
 {
-    "apiKey": "some-test-key"
+    "selected_language": "English",
+    "language_level": "A",
+    "api_key": ""
 }
